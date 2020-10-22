@@ -1,5 +1,5 @@
 # Create a two node SQL Server Always On Cluster with SQL 2016 on Windows Server 2016
-alain
+
 This template deploys two SQL Server Enterprise, Standard or Developer instances in an Always On Availability Group. It creates the following resources:
 
 * A network security group
